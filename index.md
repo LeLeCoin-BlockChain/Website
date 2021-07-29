@@ -80,8 +80,7 @@ LeCoin, on the other hand, does not suffer from such problems. Its built-in issu
 
 ## 附件
 
-发行量: 1,145,141,919,810 
-白皮书: https://github.com/LeLeCoin-BlockChain/WhitePaper/blob/main/LECoin-Whitepaper-CN.md 
-通证地址: THFK48sLFiDDG7PvrAUZVm5UcnHAPNeg5L 
-合约地址: THFK48sLFiDDG7PvrAUZVm5UcnHAPNeg5L 
-https://tronscan.io/#/token20/THFK48sLFiDDG7PvrAUZVm5UcnHAPNeg5L
+发行量: 1,145,141,919,810   
+白皮书: https://github.com/LeLeCoin-BlockChain/WhitePaper/blob/main/LECoin-Whitepaper-CN.md  
+合约地址: THFK48sLFiDDG7PvrAUZVm5UcnHAPNeg5L  
+https://tronscan.io/#/token20/THFK48sLFiDDG7PvrAUZVm5UcnHAPNeg5L 
